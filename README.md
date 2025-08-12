@@ -13,3 +13,5 @@
 <a href="https://lcc.edu">LCC</a>
 
 <a href="https://www.youtube.com/@MoggingClub">Mogging Club - YouTube</a>
+
+<a href="https://www.youtube.com/@pslgodmindset">Psl God Mindset - YouTube</a>
