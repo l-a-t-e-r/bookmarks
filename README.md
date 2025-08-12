@@ -17,3 +17,8 @@
 <a href="https://www.youtube.com/@pslgodmindset">Psl God Mindset - YouTube</a>
 
 <a href="https://joerogan.com">Joe Rogan</a>
+
+<a href="https://instagram.com">Instagtam</a>
+
+<a href="https://x.com">X / Twitter</a>
+
